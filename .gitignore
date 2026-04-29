@@ -1,0 +1,4 @@
+node_modules/
+.env
+conversations_backup.json
+server.log
