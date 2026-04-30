@@ -68,8 +68,8 @@ app.post('/chat', async (req, res) => {
 
     res.json({ respuesta, accion });
   } catch (err) {
-    console.error('Error Anthropic:', err.message);
-    res.status(500).json({ error: 'Error al procesar la respuesta' });
+    console.error('Error Anthropic:', err.message, err.status);
+    res.status(500).json({ error: 'Error al procesar la respuesta', detalle: err.message });
   }
 });
 
