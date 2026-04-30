@@ -34,6 +34,16 @@ app.get('/health', (_req, res) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
+app.get('/debug-env', (_req, res) => {
+  res.json({
+    key_set: !!process.env.ANTHROPIC_API_KEY,
+    key_length: process.env.ANTHROPIC_API_KEY ? process.env.ANTHROPIC_API_KEY.length : 0,
+    key_preview: process.env.ANTHROPIC_API_KEY ? process.env.ANTHROPIC_API_KEY.substring(0, 10) + '...' : 'VACIO',
+    port: process.env.PORT,
+    node_env: process.env.NODE_ENV,
+  });
+});
+
 app.post('/chat', async (req, res) => {
   const { user_id, nombre, mensaje } = req.body;
 
