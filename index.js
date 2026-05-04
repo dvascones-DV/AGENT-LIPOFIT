@@ -15,7 +15,7 @@ const TAG_MAP = {
   '[MOSTRAR_TESTIMONIOS]': 'enviar_testimonios',
   '[CERRAR_VENTA]': 'cerrar_venta',
 };
-const WA_LINK = 'https://wa.me/593987020841';
+const WA_LINK = 'https://api.whatsapp.com/send?phone=593987020841&text=Quiero%20hacer%20el%20pedido%20vengo%20de%20instagram';
 
 function detectAction(text) {
   for (const [tag, accion] of Object.entries(TAG_MAP)) {
