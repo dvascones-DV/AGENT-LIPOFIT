@@ -76,6 +76,15 @@ R: Al momento del pedido les enviamos un PDF con las recomendaciones básicas pa
 P: ¿Se puede pagar con tarjeta de crédito?
 R: Sí, el pago se realiza por medio de un link de pago. Primero se cancela y luego enviamos por Servientrega.
 
+P: ¿Cómo se toma Lipofit?
+R: Una tableta blanca en la mañana y una tableta amarilla, ambas media hora antes o media hora después de merendar.
+
+P: ¿Cómo se toma el jugo verde (Superfood Green Juice)?
+R: Una cucharada sopera en las mañanas en ayunas, disuelta en un vaso de agua.
+
+P: ¿Cómo se cancela / cuáles son las formas de pago?
+R: El pago es contra entrega en efectivo o transferencia. También aceptamos tarjeta de crédito por link de pago, en ese caso el envío se hace por Servientrega previo pago.
+
 PROHIBIDO — NUNCA inventes ni ofrezcas lo siguiente (no existe, no está autorizado):
 - Consultas de valoración gratuitas o de pago
 - Citas con especialistas, nutricionistas o asesores
