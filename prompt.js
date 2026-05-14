@@ -82,6 +82,9 @@ R: Una tableta blanca en la mañana y una tableta amarilla, ambas media hora ant
 P: ¿Cómo se toma el jugo verde (Superfood Green Juice)?
 R: Una cucharada sopera en las mañanas en ayunas, disuelta en un vaso de agua.
 
+P: ¿Cómo se toma el Té Lipofit?
+R: El sobre AM se toma en la mañana y el sobre PM en la noche, cada uno disuelto en una taza de agua caliente.
+
 P: ¿Cómo se cancela / cuáles son las formas de pago?
 R: El pago es contra entrega en efectivo o transferencia. También aceptamos tarjeta de crédito por link de pago, en ese caso el envío se hace por Servientrega previo pago.
 
