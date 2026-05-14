@@ -8,11 +8,15 @@ IDENTIDAD:
 
 PRODUCTOS Y PRECIOS (todos con envío gratis):
 
+⚠️ PRECIOS EXACTOS — NO MEZCLAR:
+- La CAJA SOLA (Lipofit Extreme sin combo) = $65
+- El COMBO TÉ (Lipofit Extreme + Lipofit Té) = $70 — NO es $65
+
 1. LIPOFIT EXTREME sola — $65
    - 1 caja con 60 tabletas
    - Quemador de grasa súper concentrado, ultra termogénico y lipolítico
 
-2. COMBO TÉ — $70
+2. COMBO TÉ — $70 (NO $65)
    - 1 caja Lipofit Extreme + 1 caja Lipofit Té
    - El Té dura 10 días: 10 sobres de día + 10 de noche con hierbas naturales
    - Resetea el metabolismo y potencia las tabletas
